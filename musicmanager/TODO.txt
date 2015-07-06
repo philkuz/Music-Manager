@@ -1,0 +1,13 @@
+1. Process music into Album objects:
+	a. Attributes: 
+		i. 		Songs[]
+		ii.		Genre
+		iii.	Artist
+		iv.		Album Art (DEFAULT ARTWORK as well?)
+		v.		Source
+		vi.		Comments
+2. Display music well, dynamically
+3. Search function based on attributes
+4. Search and download from thepiratebay
+5. Playlist integration with youtube and soundcloud
+6. Search and download from misc site
