@@ -1,4 +1,4 @@
 [
-	{"albumName": "Oxymoron", "active": true, "artwork": "img/oxymoron.jpg"},
-	{"albumName": "Yeezus", "active": false, "artwork": "img/yeezus.jpg"}
+	{"albumID": 0, "albumName": "Oxymoron", "active": true, "artwork": "img/oxymoron.jpg", "artist": "ScHoolboyQ", "songs": ["Yay Yay", "Prescription/Oxymoron", "Man of the Year"]},
+	{"albumID": 1, "albumName": "Yeezus", "active": false, "artwork": "img/yeezus.jpg", "artist": "Kanye West", "songs":["We the Roses", "Black Skinhead", "New Slaves"]}
 ]

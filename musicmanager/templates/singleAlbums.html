@@ -1,1 +1,16 @@
-<h1>{{albumName}}</h1>
+<div data-ng-controller='AlbumCtrl'>
+	<p>ALBUM view. Query = {{query}}</p>
+	<div ng-if="albumExists()">
+		<p>ALBUM EXISTS!</p>
+		<div  back-img={{album.artwork}} class="album">
+			<h2>{{album.albumName}}</h2>
+			</br>
+			<h3>{{album.artist}}</h3>
+		</div>
+		<div class="songList">
+			<p ng-repeat="song in songs"></p>s
+		</div>
+
+	</div>
+	<!-- <div ng-if={{!albumExists}} -->
+</div>
